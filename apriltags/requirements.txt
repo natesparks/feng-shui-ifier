@@ -1,6 +1,7 @@
 # not all of this might be strictly necessary
 # only top 3 needed for apriltags
 # the rest are for the graph and converting it to a numpy array RGB image
+# you could also use the conda variants if you want ig
 
 pip3 install opencv-contrib-python  // for computer vision
 pip3 install pupil_apriltags        // for apriltags

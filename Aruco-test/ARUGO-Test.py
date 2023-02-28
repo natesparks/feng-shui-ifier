@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# python ARGUO-Test.py --image images/example_01.png --type DICT_5X5_100
+# python3 ARUGO-Test.py --image images/example_01.png --type DICT_5X5_100
 # https://github.com/KhairulIzwan/ArUco-markers-with-OpenCV-and-Python/tree/main/Detecting%20ArUco%20markers
 
 # import the necessary packages

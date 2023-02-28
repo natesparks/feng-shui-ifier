@@ -1,0 +1,11 @@
+# not all of this might be strictly necessary
+# only top 3 needed for apriltags
+# the rest are for the graph and converting it to a numpy array RGB image
+
+pip3 install opencv-contrib-python  // for computer vision
+pip3 install pupil_apriltags        // for apriltags
+pip3 install numpy                  // for image data and stuff
+pip3 install plotly                 // for creating graph
+pip3 install pandas                 // for giving data to the radar graph
+pip3 install Pillow                 // for converting graph to an image (open png image from bytes)
+pip3 install bytesbufio             // for converting graph to an image (interpreting bytes as an image)
